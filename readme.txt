@@ -1,5 +1,5 @@
 === BBPress Close Old Posts ===
-Author: Raygun Design, LLC
+Author: Raygun
 Tags: BBPress
 Requires at least: BBPress 2.0
 Tested up to: 3.3.1

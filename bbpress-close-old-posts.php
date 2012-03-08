@@ -3,7 +3,7 @@
 /*
 Plugin Name: BBPress Close Old Posts
 Description: Close BBPress 2.0+ posts that haven't been updated in X days. 
-Author: Raygun Design, LLC
+Author: Raygun
 Version: 0.1
 Author URI: http://madebyraygun.com
 
